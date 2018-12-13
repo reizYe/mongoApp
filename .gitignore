@@ -1,0 +1,7 @@
+/node_modules
+/.vscode
+.idea
+/FrontEnd/node_modules
+/PageRebuild/node_modules
+/.upcli
+
